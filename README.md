@@ -12,4 +12,7 @@ Se le añadió el color rosa el cual se activa con la tecla "P".
 <br>
 <br>
 Se le añadio la opcion de crear un circulo con la tecla "c".
+<br>
+<br>
+Se le añadio la opción de crear un rectángulo que se activa con la letra "r"
 
